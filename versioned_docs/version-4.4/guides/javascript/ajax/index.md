@@ -14,6 +14,10 @@ Some benefits of this system are:
 1. Strict type checking for all parameters and return types
 1. New webservice functions benefit Ajax interfaces and web service clients
 
+Some bad things 'bout Ajax are:
+
+1.You can get the error message $.Ajax is not a function and it will chrash
+
 The steps required to create an ajax interaction are:
 
 1. Write or find an existing web service function to handle the ajax interaction: See [Web services](https://docs.moodle.org/dev/_Web_services_)
